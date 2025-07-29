@@ -4,7 +4,7 @@ My name is Estee and
 - 🔭 I work on behavioural economics, game theory, adaptive learning, searching and matching, and large language model applications in economic games.
 - ❤️ I'm currently interested in exploring individual decision-making in complex environments.
 - 🎓 You'll find all my recent working papers and project on my google site: [siting-estee-lu](https://sites.google.com/view/siting-estee-lu), and publications in my [Google Scholar](https://scholar.google.com/citations?user=oxabXHwAAAAJ&hl=en).
-- 📱 I post about my research on social media: [X](https://x.com/EsteeLu), [BlueSky](https://bsky.app/profile/esteelu.bsky.social), and maybe unconventionally on [Instagram](https://www.instagram.com/siting_lu_estee/).
+- 📱 I post about my research on social media: [X](https://x.com/EsteeLu), [BlueSky](https://bsky.app/profile/esteelu.bsky.social), and maybe unconventionally on [Instagram](https://www.instagram.com/siting_lu_estee/) (together with snippets about life).
 - 📫 How to reach me: s.lu@ed.ac.uk
 
 <!--
